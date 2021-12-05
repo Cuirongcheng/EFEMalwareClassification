@@ -1,0 +1,4 @@
+python ClassificationOfColor.py
+python ClassificationOfText.py
+python ClassificationOfTexture.py
+python ClassificationOfFusion.py
